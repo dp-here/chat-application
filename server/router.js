@@ -6,3 +6,6 @@ router.get('/', (req,res)=>{
 })
 
 module.exports=router;
+
+
+//router is rasta for get request's response.
